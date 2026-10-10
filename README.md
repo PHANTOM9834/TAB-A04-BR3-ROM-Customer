@@ -1,5 +1,8 @@
 # CT3ROMCustomer
 チャレンジタッチ3 TAB-A04-BR3 のsystem.img、factory.imgを編集するための自動化GUIツールです。システムアプリの追加・削除 GAppsの追加 起動アニメーション変更 アラーム音、通知音、着信音の追加・削除 です。system.imgのマウント、編集、アンマウントまで全てGUIで行えます。
+
+## お知らせ
+より詳しい方法については Zenn で投稿する予定です。README.md にはざっくりとした説明しか載っていないため、初心者にはおすすめできません。あまり詳しくない方は記事が出るまで作業をするのは推奨できません。また記事があってもある程度の知識は必要です。
 # Android System & Factory Image Patcher
 
 Zorin OS等のLinux環境で、Androidの `system.img` や `factory.img` をマウントし、アプリの追加・削除、GAppsの自動統合、起動アニメーションの変更、音声の追加、およびDCHAモードのバイパス処理などをグラフィカルに行うためのPythonツールです。
