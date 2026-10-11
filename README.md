@@ -3,6 +3,13 @@
 
 ## お知らせ
 より詳しい方法については Zenn で投稿する予定です。README.md にはざっくりとした説明しか載っていないため、初心者にはおすすめできません。あまり詳しくない方は記事が出るまで作業をするのは推奨できません。また記事があってもある程度の知識は必要です。
+
+=== 追記 ===  
+以下が詳しく説明している記事になります。  
+[Zorin OS をパソコンにインストールする方法についての記事](https://zenn.dev/phantm9834/articles/e007eb13f9d108)  
+[ADB fastboot MTKClientの準備方法についての記事](https://zenn.dev/phantm9834/articles/c26735b07804fd)  
+[今回のツールの使用方法についての記事](https://zenn.dev/phantm9834/articles/cbc6569bbc4b1c)  
+
 # Android System & Factory Image Patcher
 
 Zorin OS等のLinux環境で、Androidの `system.img` や `factory.img` をマウントし、アプリの追加・削除、GAppsの自動統合、起動アニメーションの変更、音声の追加、およびDCHAモードのバイパス処理などをグラフィカルに行うためのPythonツールです。
